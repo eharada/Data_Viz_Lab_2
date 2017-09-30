@@ -28,9 +28,12 @@ Next version: Include the number of rows per year to see what the true averages 
 
 ![image](https://user-images.githubusercontent.com/32119820/31048152-6a66f092-a5cc-11e7-8f95-2c8e4490f268.png)
 
+Link to the public Tableau chart: https://public.tableau.com/profile/elena.harada#!/vizhome/Lab_2_0/Sheet3?publish=yes
+<br/><br/>
+
 Red line shows the total records lost while the blue line shows the total number of breaches per year. <br/>
 
-This chart shows the comparison between the total number of records lost versus the number of breaches there were per year. We can see that the data breaches are more severe because there are less breaches but more number of records lost per breach. Towards the tail end of 2017 it shows that there are more breaches but less records lost. However we don't have the full data for 2017 (still need data for October-December) to get the full picture. <br/><br/>
+This chart shows the comparison between the total number of records lost versus the number of breaches there were per year. We can see that the data breaches are more severe because there are less breaches but more number of records lost per breach. Towards the tail end of 2017 it shows that there are more breaches but less records lost. However we don't have the full data for 2017 (still need data for October-December) to get the full picture. As a result, we should split up how we store the data so that there are less records lost per data breach. By splitting up the storage, it will make it harder for hackers to access all of the data. <br/><br/>
 I wanted to exclude the method of leaks as I felt that was too much information for one graph. 
 <br/><br/>
 Advantage: Shows the severity of our data breaches as there are higher ratios of records lost per data breach. <br/>
