@@ -1,4 +1,5 @@
 # Data_Viz_Lab_2
+These data visualizations refute the claim that data breaches are becoming less severe. <br />
 
 1. Increase in data breach sensitivity throughout the years
 
