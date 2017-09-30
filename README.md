@@ -1,7 +1,7 @@
 # Data_Viz_Lab_2
 These data visualizations refute the claim that data breaches are becoming less severe. <br />
 
-###1. Increase in data breach sensitivity throughout the years
+### 1. Increase in data breach sensitivity throughout the years
 
 ![image](https://user-images.githubusercontent.com/32119820/31042245-5645a794-a558-11e7-9077-7edb1515ce0e.png)
 
@@ -13,7 +13,7 @@ Disadvantage: Doesn't show the organization so the graph is too general. Doesn't
 Next version: would be good to also show the method of leak to see where the audience should be focusing<br />
 
 <br />
-###2. Data Breach Sensitivity per Method of Leak over Time
+### 2. Data Breach Sensitivity per Method of Leak over Time
 
 ![image](https://user-images.githubusercontent.com/32119820/31042720-1964275a-a563-11e7-9bde-e3bade51f3a6.png)
 
@@ -24,7 +24,7 @@ Advantage: Shows that the majority of the data breach intensity are caused by ha
 Disadvantage: The graph doesn't show if there are a lot of lower sensitivities or a few of higher sensitivities <br />
 Next version: Include the number of rows per year to see what the true averages are 
 
-###3. Final Chart: Increased Ratios of Data Records Lost per Data Breach
+### 3. Final Chart: Increased Ratios of Data Records Lost per Data Breach
 
 ![image](https://user-images.githubusercontent.com/32119820/31048152-6a66f092-a5cc-11e7-8f95-2c8e4490f268.png)
 
