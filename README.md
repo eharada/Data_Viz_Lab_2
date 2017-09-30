@@ -30,7 +30,9 @@ Next version: Include the number of rows per year to see what the true averages 
 
 Red line shows the total records lost while the blue line shows the total number of breaches per year. <br/>
 
-This chart shows the comparison between the total number of records lost versus the number of breaches there were per year. We can see that the data breaches are more severe because there are less breaches but more number of records lost per breach. Towards the tail end of 2017 it shows that there are more breaches but less records lost. However we don't have the full data for 2017 (still need data for October-December) to get the full picture. <br/>
+This chart shows the comparison between the total number of records lost versus the number of breaches there were per year. We can see that the data breaches are more severe because there are less breaches but more number of records lost per breach. Towards the tail end of 2017 it shows that there are more breaches but less records lost. However we don't have the full data for 2017 (still need data for October-December) to get the full picture. <br/><br/>
+I wanted to exclude the method of leaks as I felt that was too much information for one graph. 
+<br/><br/>
 Advantage: Shows the severity of our data breaches as there are higher ratios of records lost per data breach. <br/>
 Disadvantage: Doesn't show enough data of where the method of leaks are. Still a bit ambiguous of where we should focus our efforts. However it might be too much to show the method of leaks.
 
